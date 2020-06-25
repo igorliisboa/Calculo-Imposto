@@ -1,0 +1,23 @@
+body {
+    background-color: green;
+    font: 15pt Arial;
+    text-align: center;
+}
+
+.div {
+    width: 500px;
+    height: 450px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: white;
+    box-shadow: black 5px 3px 10px;
+}
+
+h1{
+    color: white;
+    font-family: 'Arial Black';
+}
+
+h4 {
+    font-family: 'Arial Black';
+}
